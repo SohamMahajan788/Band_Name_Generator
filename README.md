@@ -1,4 +1,5 @@
 Project Name - 🎸 Band Name Generator
+
 Description - Welcome to the Band Name Generator! This simple Python script generates a cool band name by combining your city name and pet's name, then displaying it in ASCII art using the pyfiglet library.
 
 ✨ Features and working:-
@@ -22,12 +23,14 @@ Nashik
 Blaze
 🎤 Your Band name could be:
 
+
  _   _           _     _ _       ____  _               
 | \ | | __ _ ___| |__ (_) | __  | __ )| | __ _ _______ 
 |  \| |/ _` / __| '_ \| | |/ /  |  _ \| |/ _` |_  / _ \
 | |\  | (_| \__ \ | | | |   <   | |_) | | (_| |/ /  __/
 |_| \_|\__,_|___/_| |_|_|_|\_\  |____/|_|\__,_/___\___|
                                                        
+
 
 🔗 Contributing
 
