@@ -29,4 +29,13 @@ Blaze
 | \ | | __ _ ___| |__ (_) | __  | __ )| | __ _ _______ 
 |  \| |/ _` / __| '_ \| | |/ /  |  _ \| |/ _` |_  / _ \
 | |\  | (_| \__ \ | | | |   <   | |_) | | (_| |/ /  __/
-|_| \_|\__,_|___/_| |_|_|_|\_\  |____/|_|\__,_/___\___|                                              
+|_| \_|\__,_|___/_| |_|_|_|\_\  |____/|_|\__,_/___\___|         
+
+
+🔗 Contributing
+Feel free to fork this repo and make improvements! Pull requests are welcome.
+
+🌟 Star This Repo
+If you like this project, star it on GitHub!
+
+📚 Created by Soham Mahajan
