@@ -11,18 +11,22 @@ Description - Welcome to the Band Name Generator! This simple Python script gene
 
 🛠️ Installation procedure:- 
 
-1. Ensure you have Python installed, then install pyfiglet using:
-Open Terminal of your code editor and type - ***pip install pyfiglet***
+1. Ensure you have Python installed
+2. Then install pyfiglet using: Open Terminal of your code editor and type - ***pip install pyfiglet***
 
 📄 Example Output
 
 🎵 Welcome to Band Name Generator! 🎸
-🏙️ What is the name of the city you grew up in? 🌆
-Nashik
-🐾 What's your pet's name?
-Blaze
-🎤 Your Band name could be:
 
+🏙️ What is the name of the city you grew up in? 🌆
+
+Nashik
+
+🐾 What's your pet's name?
+
+Blaze
+
+🎤 Your Band name could be:
 
  _   _           _     _ _       ____  _               
 | \ | | __ _ ___| |__ (_) | __  | __ )| | __ _ _______ 
