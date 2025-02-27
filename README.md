@@ -17,10 +17,12 @@ Description - Welcome to the Band Name Generator! This simple Python script gene
 📄 Example Output
 
 🎵 Welcome to Band Name Generator! 🎸
+
 🏙️ What is the name of the city you grew up in? 🌆
 Nashik
 🐾 What's your pet's name?
 Blaze
+
 🎤 Your Band name could be:
  _   _           _     _ _       ____  _               
 | \ | | __ _ ___| |__ (_) | __  | __ )| | __ _ _______ 
