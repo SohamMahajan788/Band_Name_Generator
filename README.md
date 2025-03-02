@@ -1,4 +1,4 @@
-Project Name - 🎸 Band Name Generator
+![image](https://github.com/user-attachments/assets/bb4dee48-caae-439d-8130-a21451fdd4bb)Project Name - 🎸 Band Name Generator
 
 Description - Welcome to the Band Name Generator! This simple Python script generates a cool band name by combining your city name and pet's name, then displaying it in ASCII art using the pyfiglet library.
 
@@ -15,21 +15,7 @@ Description - Welcome to the Band Name Generator! This simple Python script gene
 2. Then install pyfiglet using: Open Terminal of your code editor and type - ***pip install pyfiglet***
 
 📄 Example Output
-
-🎵 Welcome to Band Name Generator! 🎸
-
-🏙️ What is the name of the city you grew up in? 🌆
-Nashik
-
-🐾 What's your pet's name?
-Blaze
-
-🎤 Your Band name could be:
- _   _           _     _ _       ____  _               
-| \ | | __ _ ___| |__ (_) | __  | __ )| | __ _ _______ 
-|  \| |/ _` / __| '_ \| | |/ /  |  _ \| |/ _` |_  / _ \
-| |\  | (_| \__ \ | | | |   <   | |_) | | (_| |/ /  __/
-|_| \_|\__,_|___/_| |_|_|_|\_\  |____/|_|\__,_/___\___|         
+![Uploading image.png…]()
 
 ****************************************
 
