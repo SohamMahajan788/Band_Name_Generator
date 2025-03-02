@@ -31,7 +31,17 @@ Blaze
 | |\  | (_| \__ \ | | | |   <   | |_) | | (_| |/ /  __/
 |_| \_|\__,_|___/_| |_|_|_|\_\  |____/|_|\__,_/___\___|         
 
+****************************************
 
+🔗 Follow My Coding Journey:
+
+LinkedIn: https://www.linkedin.com/in/sohammahajan788
+
+Twitter (X): https://x.com/SohamMahajan788
+
+GitHub: https://github.com/SohamMahajan788
+
+****************************************
 🔗 Contributing
 Feel free to fork this repo and make improvements! Pull requests are welcome.
 
